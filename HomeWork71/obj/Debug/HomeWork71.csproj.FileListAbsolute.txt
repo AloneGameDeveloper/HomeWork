@@ -1,0 +1,10 @@
+C:\Users\Daniela\source\repos\HomeWork71\HomeWork71\bin\Debug\HomeWork71.exe.config
+C:\Users\Daniela\source\repos\HomeWork71\HomeWork71\bin\Debug\HomeWork71.exe
+C:\Users\Daniela\source\repos\HomeWork71\HomeWork71\bin\Debug\HomeWork71.pdb
+C:\Users\Daniela\source\repos\HomeWork71\HomeWork71\obj\Debug\HomeWork71.csprojAssemblyReference.cache
+C:\Users\Daniela\source\repos\HomeWork71\HomeWork71\obj\Debug\HomeWork71.Form1.resources
+C:\Users\Daniela\source\repos\HomeWork71\HomeWork71\obj\Debug\HomeWork71.Properties.Resources.resources
+C:\Users\Daniela\source\repos\HomeWork71\HomeWork71\obj\Debug\HomeWork71.csproj.GenerateResource.cache
+C:\Users\Daniela\source\repos\HomeWork71\HomeWork71\obj\Debug\HomeWork71.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\source\repos\HomeWork71\HomeWork71\obj\Debug\HomeWork71.exe
+C:\Users\Daniela\source\repos\HomeWork71\HomeWork71\obj\Debug\HomeWork71.pdb
